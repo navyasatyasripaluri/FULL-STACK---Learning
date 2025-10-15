@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .external-example {
     color: white;
     background-color: black;
@@ -5,3 +6,12 @@
     border-radius: 8px;
     text-align: center;
 }
+=======
+.external-example {
+    color: white;
+    background-color: black;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+}
+>>>>>>> 37e2269c784e3d6184c79718bd26733ea306696f

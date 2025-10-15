@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 .named-color { color: red; }
 .hex-color { color: #FF5733; }
 .rgb-color { color: rgb(60, 179, 113); }
 .rgba-color { color: rgba(255, 0, 0, 0.5); }
 .hsl-color { color: hsl(240, 100%, 50%); }
+=======
+.named-color { color: red; }
+.hex-color { color: #FF5733; }
+.rgb-color { color: rgb(60, 179, 113); }
+.rgba-color { color: rgba(255, 0, 0, 0.5); }
+.hsl-color { color: hsl(240, 100%, 50%); }
+>>>>>>> 37e2269c784e3d6184c79718bd26733ea306696f
